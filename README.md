@@ -10,7 +10,7 @@ This repository serves as my study area whilst completing [The Modern Angular Bo
 
 ## Overview
 
-Due to work projects I have been required to learn about Angular and Typescript, I order to do this I have completed [The Modern Angular Bootcamp on Udemy](https://www.udemy.com/course/the-modern-angular-bootcamp/). along side larger hands-on [personal projects](https://github.com/KieronRoberts/Angular). This repository will store all applications built as part of the Udemy course.
+Due to work projects I have been required to learn about Angular and Typescript, I order to do this I have completed [The Modern Angular Bootcamp on Udemy](https://www.udemy.com/course/the-modern-angular-bootcamp/) by Stephen Grider. along side larger hands-on [personal projects](https://github.com/KieronRoberts/Angular). This repository will store all applications built as part of the Udemy course.
 
 ## Author
 
@@ -23,12 +23,13 @@ I am a Junior Software developer working mainly with Mircosoft PowerPlatforms, t
 ## Skills Learned
 
 As this is the first time I have studied Angular and TypeScript there are a large number of concepts that I have learnt, including:
-- The difference between TypeScript and JavaScript
-- How to set up an Angular Project
-- Angular Architecture
-- Components
-- Looping with *ngFor
-- Utilising @fullcalendar/angular @fullcalendar/core @fullcalendar/daygrid
+- How to build single page applications with Angular and Typescript
+- The Angular Template Syntax
+- How to build applications using components
+- How to effectively use Pipes
+- The benefits of using modules
+- Routing and Navigation between pages
+- Lazy loading and modules
 
 ## Run Locally
 
@@ -42,7 +43,5 @@ $ npm start
 ## Acknowledgements
 
 Acknowlegements for this project go to:
- - [Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
- - [The Modern Angular Bootcamp](https://www.udemy.com/course/the-modern-angular-bootcamp/)
- - [Learn how to create your first Angular app in 20 minutes](https://www.freecodecamp.org/news/learn-how-to-create-your-first-angular-app-in-20-min-146201d9b5a7/)
- - [Angular 16 FullCalendar Create and Display Dynamic Events](https://www.positronx.io/angular-fullcalendar-create-and-display-dynamic-events/)
+- [The Modern Angular Bootcamp on Udemy](https://www.udemy.com/course/the-modern-angular-bootcamp/) by Stephen Grider
+ 
