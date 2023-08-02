@@ -10,7 +10,7 @@ This repository serves as my study area whilst completing [The Modern Angular Bo
 
 ## Overview
 
-Due to work projects I have been required to learn about Angular and Typescript, I order to do this I have completed [The Modern Angular Bootcamp on Udemy](https://www.udemy.com/course/the-modern-angular-bootcamp/) by Stephen Grider. along side larger hands-on [personal projects](https://github.com/KieronRoberts/Angular). This repository will store all applications built as part of the Udemy course.
+Due to work projects I have been required to learn about Angular and Typescript, I order to do this I have completed [The Modern Angular Bootcamp on Udemy](https://www.udemy.com/course/the-modern-angular-bootcamp/) by Stephen Grider. Along side larger hands-on [personal projects](https://github.com/KieronRoberts/Angular). This repository will store all applications built as part of the Udemy course.
 
 ## Author
 
