@@ -1,0 +1,10 @@
+.image{
+    display: flex;
+    width: 25%;
+}
+
+.paragragh{
+    display: flex;
+    width: 25%;
+    margin: 0 auto;
+}
