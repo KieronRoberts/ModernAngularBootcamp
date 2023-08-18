@@ -39,7 +39,7 @@ As this is the first time I have studied Angular and TypeScript there are a larg
 - Handling Authentication
 
 ## Certification
-[My Udemy certification](https://udemy-certificate.s3.amazonaws.com/image/UC-9bad1b56-82aa-4ef6-a04f-19de71bbbf9c.jpg?v=1692345783000) for successfully completing the [The Modern Angular Bootcamp](https://www.udemy.com/course/the-modern-angular-bootcamp/) on 08/18/2023 as taught by Stephen Grider on Udemy.
+[My Udemy certification](https://udemy-certificate.s3.amazonaws.com/image/UC-9bad1b56-82aa-4ef6-a04f-19de71bbbf9c.jpg?v=1692345783000) for successfully completing [the Modern Angular Bootcamp](https://www.udemy.com/course/the-modern-angular-bootcamp/) on 08/18/2023 as taught by Stephen Grider on Udemy.
 
 ## Run Locally
 
