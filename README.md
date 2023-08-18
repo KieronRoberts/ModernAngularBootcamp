@@ -24,12 +24,18 @@ I am a Junior Software developer working mainly with Mircosoft PowerPlatforms, t
 
 As this is the first time I have studied Angular and TypeScript there are a large number of concepts that I have learnt, including:
 - How to build single page applications with Angular and Typescript
-- The Angular Template Syntax
+- The Angular template syntax
 - How to build applications using components
 - How to effectively use Pipes
 - The benefits of using modules
-- Routing and Navigation between pages
+- Routing and navigation between pages
 - Lazy loading and modules
+- Component routing & reuseability
+- Data handling and HTTP requests
+- Angular application security
+- Reactive forms
+- Custom validators
+- Handling Authentication
 
 ## Run Locally
 
